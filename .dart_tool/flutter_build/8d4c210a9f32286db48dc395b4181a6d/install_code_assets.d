@@ -1,0 +1,1 @@
+ D:\\flutter\\BakeHub-main\\.dart_tool\\flutter_build\\8d4c210a9f32286db48dc395b4181a6d\\native_assets.json: 
