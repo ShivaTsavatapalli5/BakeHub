@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26423798985",
+    "project_id": "bakehub-6f528",
+    "storage_bucket": "bakehub-6f528.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26423798985:android:4390c101bf716658143118",
+        "android_client_info": {
+          "package_name": "com.example.bakehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26423798985-q3fsllb9fu3kcb71af74alu2hofrpq5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmgEI_umG1IQEKNY7NZFAmM31mebunocw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26423798985-q3fsllb9fu3kcb71af74alu2hofrpq5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
